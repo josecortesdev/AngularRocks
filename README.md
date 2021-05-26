@@ -8,6 +8,8 @@ Reutilicé un backend que hice con Spring Boot.
 
 Hay una funcionalidad que no era necesaria pero la dejé por si interesaba (añadir bandas a favoritas).
 
+<br />
+
 ## Vídeo
 
 
