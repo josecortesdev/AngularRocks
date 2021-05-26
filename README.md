@@ -1,6 +1,12 @@
 # AngularRocks
 
-Frontend de una aplicación que almacena, muestra, modifica y elimina información y vídeos de Rock. Reutilicé un backend que hice con Spring Boot.
+Frontend de una aplicación que almacena, muestra, filtra, modifica y elimina información y vídeos de Rock. 
+
+El usuario puede añadir información con vídeos de las bandas de rock pegando el ID de Youtube.
+
+Reutilicé un backend que hice con Spring Boot.
+
+Hay una funcionalidad que no era necesaria pero la dejé por si interesaba (añadir bandas a favoritas).
 
 ## Vídeo
 
