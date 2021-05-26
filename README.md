@@ -1,4 +1,4 @@
-# AngularRocks
+# Angular Rocks
 
 Frontend de una aplicación que almacena, muestra, filtra, modifica y elimina información y vídeos de Rock. 
 
